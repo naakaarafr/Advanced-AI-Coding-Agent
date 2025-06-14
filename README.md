@@ -49,7 +49,7 @@ pip install autogen-agentchat google-generativeai python-dotenv
 
 1. **Clone the repository**
    ```bash
-   git clone [<repository-url>](https://github.com/naakaarafr/Advanced-AI-Coding-Agent)
+   git clone https://github.com/naakaarafr/Advanced-AI-Coding-Agent
    cd Advanced-AI-Coding-Agent
    ```
 
