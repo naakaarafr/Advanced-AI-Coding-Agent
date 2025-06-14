@@ -1,0 +1,30 @@
+# Core AI and LLM dependencies
+pyautogen>=0.2.0
+google-generativeai>=0.3.0
+
+# Environment and configuration
+python-dotenv>=1.0.0
+
+# Standard library enhancements (these are built-in but listing for clarity)
+# ast - built-in
+# json - built-in
+# re - built-in
+# subprocess - built-in
+# tempfile - built-in
+# pathlib - built-in
+# traceback - built-in
+# typing - built-in
+# os - built-in
+# sys - built-in
+# time - built-in
+
+# Optional runtime dependencies for multi-language support
+# These are not Python packages but system dependencies:
+# - Node.js (for JavaScript/TypeScript execution)
+# - Java JDK (for Java execution)
+# - GCC/G++ (for C/C++ compilation)
+# - Go (for Go execution)
+# - Rust (for Rust compilation)
+# - PHP (for PHP execution)
+# - Ruby (for Ruby execution)
+# - ts-node (npm package for TypeScript execution)
